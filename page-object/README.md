@@ -1,9 +1,14 @@
 ---
 layout: pattern
+
 title: Page Object
+
 folder: page-object
+
 permalink: /patterns/page-object/
+
 categories: Testing
+
 tags:
 - Java
 - Difficulty-Intermediate

@@ -1,10 +1,16 @@
 ---
 layout: pattern
+
 title: Thread Local Storage
+
 folder: tls
+
 permalink: /patterns/tls/
+
 pumlid: 
+
 categories: Concurrency
+
 tags:
  - Java
  - Difficulty-Intermediate

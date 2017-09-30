@@ -1,9 +1,14 @@
 ---
 layout: pattern
+
 title: Naked Objects
+
 folder: naked-objects
+
 permalink: /patterns/naked-objects/
+
 categories: Architectural
+
 tags:
  - Java
  - Difficulty-Expert

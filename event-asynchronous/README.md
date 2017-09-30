@@ -1,9 +1,14 @@
 ---
 layout: pattern
+
 title: Event-based Asynchronous
+
 folder: event-asynchronous
+
 permalink: /patterns/event-asynchronous/
+
 categories: Concurrency
+
 tags:
  - difficulty-intermediate
  - performance

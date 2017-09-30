@@ -1,9 +1,14 @@
 ---
 layout: pattern
+
 title: Message Channel
+
 folder: message-channel
+
 permalink: /patterns/message-channel/
+
 categories: Integration
+
 tags:
  - Java
  - EIP

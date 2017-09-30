@@ -1,9 +1,14 @@
 ---
 layout: pattern
+
 title: Converter
+
 folder: converter
+
 permalink: /patterns/converter/
+
 categories:
+
 tags:
  - Java
  - Difficulty-Beginner

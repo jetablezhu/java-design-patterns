@@ -1,9 +1,14 @@
 ---
 layout: pattern
+
 title: Event Queue
+
 folder: event-queue
+
 permalink: /patterns/event-queue/
+
 categories: Concurrency
+
 tags:
  - Java
  - Difficulty Intermediate

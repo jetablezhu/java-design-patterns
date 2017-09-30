@@ -1,9 +1,14 @@
 ---
 layout: pattern
+
 title: Balking
+
 folder: balking
+
 permalink: /patterns/balking/
+
 categories: Concurrency
+
 tags:
  - Java
  - Difficulty-Beginner

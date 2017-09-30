@@ -1,9 +1,14 @@
 ---
 layout: pattern
+
 title: Publish Subscribe
+
 folder: publish-subscribe
+
 permalink: /patterns/publish-subscribe/
+
 categories: Integration
+
 tags:
  - Java
  - EIP
